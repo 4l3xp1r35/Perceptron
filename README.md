@@ -14,10 +14,13 @@ This project implements a perceptron in Java to solve the logical OR problem. It
 
 ## How to Run
 To run this project, compile and execute the `Main.java` file.
+
 The comand for compile:
+                
     javac Main.java
 
 The comand for run:  
+
     java Main
 
  This will initiate the perceptron's training process and display the results, including the adjusted weights and the average MSE after training.
